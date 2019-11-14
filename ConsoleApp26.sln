@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp26", "ConsoleApp26\ConsoleApp26.csproj", "{A606C682-3499-4755-83B4-EBC05F55572C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MartixOperations", "ConsoleApp26\MartixOperations.csproj", "{A606C682-3499-4755-83B4-EBC05F55572C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
